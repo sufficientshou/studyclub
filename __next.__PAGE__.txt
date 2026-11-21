@@ -8,5 +8,5 @@
 8:I[30950,["/studyclub/_next/static/chunks/0nk88cbz2wm2n.js","/studyclub/_next/static/chunks/2393st3o8br_6.js","/studyclub/_next/static/chunks/1tpi9p4alwgc6.js"],"default"]
 9:I[19887,["/studyclub/_next/static/chunks/0nk88cbz2wm2n.js","/studyclub/_next/static/chunks/2393st3o8br_6.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],[["$","script","script-0",{"src":"/studyclub/_next/static/chunks/1tpi9p4alwgc6.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-zNKU8KMh2wy9XvWpLeXY"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],[["$","script","script-0",{"src":"/studyclub/_next/static/chunks/1tpi9p4alwgc6.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Vr5xY-7swFwiyi1RwuKQW"}
 b:null
